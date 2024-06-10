@@ -1,1 +1,2 @@
 # vanirepo
+git config list
